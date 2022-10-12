@@ -1,13 +1,14 @@
-package com.example.centralized_swagger;
+package com.example.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CentralizedSwaggerApplicationTests {
+class ApiGatewayApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
